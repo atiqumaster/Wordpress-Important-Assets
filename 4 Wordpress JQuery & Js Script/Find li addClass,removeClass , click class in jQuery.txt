@@ -1,0 +1,79 @@
+<script>
+
+jQuery(document).ready(function() {
+	
+jQuery('.exad-tabs-dd2c8d0 > ul').find('li').click(function () {
+	 
+    jQuery('.exad-tabs-f51df43  > ul').find('li:first').addClass('nill');
+	jQuery('.exad-tabs-64a1e56  > ul').find('li:first').addClass('nill');
+	jQuery('.exad-tabs-07adfcb  > ul').find('li:first').addClass('nill');
+	jQuery('.exad-tabs-2b8ebe7 > ul').find('li:first').addClass('nill');		
+	 
+    jQuery('.exad-tabs-f51df43  > ul').find('li:first').click();
+	jQuery('.exad-tabs-64a1e56  > ul').find('li:first').click();
+	jQuery('.exad-tabs-07adfcb  > ul').find('li:first').click();
+    jQuery('.exad-tabs-2b8ebe7 > ul').find('li:first').click();	
+		
+});
+
+	
+	jQuery('.exad-tabs-f51df43  > ul').find('li').next().click(function(){
+		jQuery('.exad-tabs-f51df43  > ul').find('li:first').removeClass('nill');
+	    jQuery('.exad-tabs-64a1e56  > ul').find('li:first').removeClass('nill');
+		jQuery('.exad-tabs-07adfcb  > ul').find('li:first').click();
+		
+	});
+	
+	jQuery('.exad-tabs-f51df43  > ul').find('li:first').click(function(){
+
+		jQuery('.exad-tabs-64a1e56  > ul').find('li:first').addClass('nill');
+		jQuery('.exad-tabs-64a1e56  > ul').find('li:first').click();
+	});
+
+	jQuery('.exad-tabs-64a1e56  > ul').find('li:nth-child(2)').click(function(){
+    	    jQuery('.exad-tabs-64a1e56  > ul').find('li:first').removeClass('nill');
+	});
+		jQuery('.exad-tabs-64a1e56  > ul').find('li:nth-child(3)').click(function(){
+    	    jQuery('.exad-tabs-64a1e56  > ul').find('li:first').removeClass('nill');
+	});
+		jQuery('.exad-tabs-64a1e56  > ul').find('li:nth-child(4)').click(function(){
+    	    jQuery('.exad-tabs-64a1e56  > ul').find('li:first').removeClass('nill');
+	});
+		jQuery('.exad-tabs-64a1e56  > ul').find('li:nth-child(5)').click(function(){
+    	    jQuery('.exad-tabs-64a1e56  > ul').find('li:first').removeClass('nill');
+	});
+	
+	jQuery('.exad-tabs-07adfcb  > ul').find('li:nth-child(2)').click(function(){
+    	    jQuery('.exad-tabs-07adfcb  > ul').find('li:first').removeClass('nill');
+	});
+		jQuery('.exad-tabs-07adfcb  > ul').find('li:nth-child(3)').click(function(){
+    	    jQuery('.exad-tabs-07adfcb  > ul').find('li:first').removeClass('nill');
+	});
+		jQuery('.exad-tabs-07adfcb  > ul').find('li:nth-child(4)').click(function(){
+    	    jQuery('.exad-tabs-07adfcb  > ul').find('li:first').removeClass('nill');
+	});
+		jQuery('.exad-tabs-07adfcb  > ul').find('li:nth-child(5)').click(function(){
+    	    jQuery('.exad-tabs-07adfcb  > ul').find('li:first').removeClass('nill');
+	});
+
+		jQuery('.exad-tabs-2b8ebe7  > ul').find('li:nth-child(2)').click(function(){
+    	    jQuery('.exad-tabs-2b8ebe7  > ul').find('li:first').removeClass('nill');
+	});
+	jQuery('.exad-tabs-2b8ebe7  > ul').find('li:nth-child(3)').click(function(){
+    	    jQuery('.exad-tabs-2b8ebe7  > ul').find('li:first').removeClass('nill');
+	});
+   	jQuery('.exad-tabs-2b8ebe7 > ul').find('li:nth-child(4)').click(function(){
+    	    jQuery('.exad-tabs-2b8ebe7  > ul').find('li:first').removeClass('nill');
+	});
+	jQuery('.exad-tabs-2b8ebe7  > ul').find('li:nth-child(5)').click(function(){
+    	    jQuery('.exad-tabs-2b8ebe7  > ul').find('li:first').removeClass('nill');
+	});
+	jQuery('.exad-tabs-2b8ebe7  > ul').find('li:nth-child(6)').click(function(){
+    	    jQuery('.exad-tabs-2b8ebe7  > ul').find('li:first').removeClass('nill');
+	});
+	
+
+
+});
+
+</script>

@@ -1,0 +1,17 @@
+<script>
+  $getoutput = "<div id=output></div>";
+  echo $getoutput;  // get page reload value without local storage
+<script>
+var state = history.state || {};
+var reloadCount = state.reloadCount || 0;
+if (performance.navigation.type === 1) { // Reload
+    state.reloadCount = ++reloadCount;
+    history.replaceState(state, null, document.URL);
+} else if (reloadCount) {
+    reloadCount = 0;
+    delete state.reloadCount;
+    history.replaceState(state, null, document.URL);
+}
+document.getElementById('output').textContent =
+    'The page was reloaded ' + reloadCount + ' times';
+</script>

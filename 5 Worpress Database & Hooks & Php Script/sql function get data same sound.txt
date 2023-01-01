@@ -1,0 +1,7 @@
+Get data from php where match the same sound
+
+function name soundex
+
+example
+
+SELECT * From `table name` WHERE soundex('visaal') = soundex(name);

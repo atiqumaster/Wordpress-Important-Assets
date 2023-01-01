@@ -1,0 +1,6 @@
+$pages = get_pages();
+$pagee = array();
+foreach ($pages as $page) {
+  $pagee[] = $page->post_title;
+}
+echo implode(",",$pagee);

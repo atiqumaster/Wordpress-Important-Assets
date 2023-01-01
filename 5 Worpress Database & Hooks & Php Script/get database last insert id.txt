@@ -1,0 +1,3 @@
+
+	$lastid = $wpdb->insert_id; 
+echo $lastid   // get last id insert  in database

@@ -1,0 +1,51 @@
+
+
+-------------------------
+
+# Code : 
+
+<i class="fa fa-eye" style="font-size:15px;color:#888888"></i><span class='the_views'><?php if(function_exists('the_views')) { the_views(); } ?></span>
+
+----------------------------
+
+
+
+---------------------------------
+
+# Custom CSS For ViewCounter ( Change Font Size, Color, Padding As You like )
+
+.the_views {
+	font-size: 13px ;
+	color: #888888 ;
+	padding-right: 10px;
+}
+
+----------------------------------------
+
+
+
+
+---------------------------------------------------------
+
+# Icon Code : (Change Icon Size, Color )
+
+<i class="fa fa-eye" style="font-size:15px;color:#888888"></i>
+
+------------------------------------------------
+
+
+
+-----------------------------------------
+
+# View Counter Code :
+
+<?php if(function_exists('the_views')) { the_views(); } ?>
+
+----------------------------------------------
+
+
+
+
+
+
+------------------------------------------

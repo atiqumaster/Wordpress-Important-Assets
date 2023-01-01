@@ -1,0 +1,38 @@
+add_action('wp_footer','custom_ajax_in_search_filter');
+
+function custom_ajax_in_search_filter(){
+	?>
+<script>
+jQuery(document).ready(function(){
+	jQuery('.btn_filter').change(function(){
+		var valueOfAbove = jQuery(this).val();
+		  jQuery.ajax({
+							url : '<?php echo admin_url('admin-ajax.php')?>',
+							type : 'post',
+			                dataType: 'json',
+							data : {
+								action : 'callback_aa',
+								idd:valueOfAbove
+
+							},
+							success:function(res){
+							  
+							}
+
+						});
+	});
+});
+</script>
+<?php
+}
+
+ add_action('wp_ajax_callback_aa','callback_aa');
+ add_action('wp_ajax_nopriv_callback_aa', 'callback_aa');
+ function callback_aa() { 
+	 global $idd;
+   $idd = $_REQUEST['idd'];
+   global $wpdb;
+
+   die();
+   
+ }

@@ -1,0 +1,9 @@
+functionwoo_hide_product_categories_widget( $list_args ){
+ 
+            $list_args[ 'hide_empty' ] = 1;
+ 
+            return $list_args;
+ 
+}
+ 
+add_filter( 'woocommerce_product_categories_widget_args', 'woo_hide_product_categories_widget' );

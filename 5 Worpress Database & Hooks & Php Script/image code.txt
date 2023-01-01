@@ -1,0 +1,30 @@
+
+image code
+
+<?php
+    if (isset($_FILES['image'])) {
+       
+        $file_name = $_FILES['image']['name'];
+        $file_type= $_FILES['image']['type'];
+        $file_tmp = $_FILES['image']['tmp_name'];
+        $file_size = $_FILES['image']['size'];
+        $name = $_POST['fname'];
+        $pass = $_POST['pass'];
+
+        move_uploaded_file($file_tmp,"upload-images/". $file_name);
+        $conn = mysqli_connect("localhost","root","","from");
+        if ($conn) {
+           $sqli = "INSERT INTO `forn`(`id`, `name`, `pass`, `images`) VALUES ('[]','$name','$pass','$file_tmp ')";
+           $result = mysqli_query($conn,$sqli);
+           if ($result) {
+               echo " inserted";
+               # code...
+           }else{
+               echo "nott";
+           }
+            # code...
+        }else{
+            echo "nt";
+        }
+    }
+?>

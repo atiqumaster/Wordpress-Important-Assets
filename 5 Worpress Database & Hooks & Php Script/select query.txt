@@ -1,0 +1,4 @@
+ $sql_query_for_display_in_table = "SELECT `id`, `lang`, `cat_name`, `cat_image` FROM `main_cat`";
+                     $answer = mysqli_query($conn,$sql_query_for_display_in_table);
+                     if($answer->num_rows>0){
+                        while($row=$answer->fetch_assoc()){

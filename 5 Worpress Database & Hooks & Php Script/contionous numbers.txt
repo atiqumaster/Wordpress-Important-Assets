@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <script type="text/javascript">
+        window.onload = function () {
+            var ddl = document.getElementById('mycontainer').getElementsByTagName("select")[0];
+            for (var i = 1; i <= 100; i++) {
+                var theOption = new Option;
+                theOption.text = i;
+                theOption.value = i;
+                ddl.options[i] = theOption;
+            }
+        };
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="mycontainer">
+            <select id="AgeDropdownId" name="AgeDropdown" class="AgeDropdown" runat="server">
+                <option value="0"><--Select Age--></option>
+            </select>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+
+

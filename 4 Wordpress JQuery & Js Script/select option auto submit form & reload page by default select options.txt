@@ -1,0 +1,9 @@
+jQuery(document).ready(function(){
+    jQuery(".country_select option[value='default']").prop('selected',true);
+		jQuery('body').on('change', '.country_select', function(){
+			 jQuery('#myform').submit();
+    });
+});
+
+// is script sa hmm  select option pr form submit krwa sktaya ajax form ko ior 
+by default page reload honaya pr select option rhk skataya ha submit button ki need nhi phir

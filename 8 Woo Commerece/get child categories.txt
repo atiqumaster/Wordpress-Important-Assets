@@ -1,0 +1,6 @@
+$last_categories = get_categories(
+  array(
+    'taxonomy' => 'product_cat',
+    'parent' => $sub_category->cat_ID
+  )
+);

@@ -1,0 +1,6 @@
+jQuery('.wc-nested-category-layout-category-title').each(function(i, obj) {
+    let html = jQuery(this).find('a').html();
+    if(html == 'Bookings') {
+    	jQuery(this).hide();
+    }
+})

@@ -1,0 +1,3 @@
+global $wpdb;
+	$q = "SELECT * FROM `wp_usermeta` WHERE (meta_key = 'wp_user_level')";
+	$data = $wpdb->get_results($q);

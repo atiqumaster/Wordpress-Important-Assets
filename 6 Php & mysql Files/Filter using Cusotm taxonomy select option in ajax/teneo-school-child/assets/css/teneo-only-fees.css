@@ -1,0 +1,1847 @@
+.container{
+  width: 1440px;
+}
+div#three-columns-layout-fee-section {
+    margin: 0;
+    
+}
+.monthly-txt-type-2 {
+    border-right: 1px solid #D0E6F4;
+   
+}
+.monthly-text-m2 {
+    margin-left: 22px;
+}
+.monthly-text-m3 {
+    margin-left: 22px;
+}
+button.accordion-button.collapsed {
+    height: 75px;
+}
+.priceify{
+    margin-left: -12px;
+}
+.accor_type_2 {
+    margin-left: -25px;
+    margin-right: -25px;
+}
+.accordion-body {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+}
+.noteify li {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 10px;
+    font-size: 14px;
+    line-height: 27px;
+    color: #16243E;
+}
+.noteify {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 50px;
+}
+.fees_box_type_2 p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #16243E;
+}
+span.span_bold {
+    font-weight: 700;
+}
+.fees_box_handle_type_2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fees_box_type_2{
+width: 49%
+}
+
+.monthly-txt-type-2 h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.8068px;
+    line-height: 19px;
+    color: #16243E;
+}
+.real_time_plus_flex_row {
+    display: flex;
+    justify-content: space-between;
+}
+.real_time_plus_flex {
+    max-width: 49%;
+}
+div#three-columns-layout-fee-section {
+    max-width: 100%;
+}
+.grade-heading-column {
+    min-height: 118px;
+}
+.button-one-all-you-need {
+    width: 300px;
+    height: 45px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 1px;
+    color: #3934A9;
+  border: 1px solid #3934A9;
+  box-shadow: 0px 1px 8px rgb(0 0 0 / 25%);
+  border-radius: 30px;
+  margin-left: 5%;
+}
+.button-two-all-you-needs {
+  padding: 14px 22px;
+gap: 10px;
+width: 200px;
+height: 45px;
+background: #F9B937;
+box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.25);
+border-radius: 28px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+letter-spacing: 1px;
+color: #16243E;
+}
+
+img.img_adjust_blue {
+    width: 16px;
+    height: auto;
+    margin-top: -3px;
+   
+}
+.accor .accordion-button::after
+{
+background-image: url(/wp-content/uploads/2022/12/Component-79.png) !important;
+height: 53px;
+    width: 53px;
+    background-size: 53px;
+}
+
+.col-lg-12.mt-3.note li {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    padding-left:10px;
+    font-size: 14px;
+    line-height: 27px;
+    color: #16243E;
+}
+.fee-tweenty-thre.price .monthly {
+    margin-bottom: 16px !important;
+}
+span.Payable {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    max-width: 48%;
+    font-size: 8.53789px;
+    line-height: 19px;
+    color: #16243E;
+}
+h2.monthly-instalment {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.8068px;
+    line-height: 19px;
+    color: #16243E;
+}
+body.page-template.page-template-elementor_header_footer.page.page-id-1205.elementor-default.elementor-template-full-width.elementor-kit-7.elementor-page.elementor-page-1205.e--ua-blink.e--ua-chrome.e--ua-webkit {
+    overflow-x: hidden !important;
+}
+
+#all-schools-fees-listing-section .text-uppercase.heading-real-time {
+    margin-top: 0px!important;
+}
+
+#all-schools-fees-listing-section h2.table_flex_head {
+    margin: 0px 0 22px 0!important;
+}
+
+
+.fees_upper_box p, .fees_lower_box p{
+	font-size:16px !important;
+	line-height:28px !important;
+	font-weight:400 !important;
+	}
+.fees_upper_box h5, .fees_lower_box h5{
+	font-size:24px !important;
+	line-height:30px !important;
+	font-weight:600 !important;
+	}
+p{
+  font-family: Montserrat;
+}
+.first-main-container {
+    border: 1px solid #D0E6F4;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgb(0 0 0 / 20%)
+  }
+  .first-row-texts h4 {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 33px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #21205A !important;
+  }
+  .first-row-texts h6{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 1px;
+    text-align: left;
+
+  }
+  .section-one {
+    /* border: 1px solid; */
+    border-radius: 5px;
+    background: #F9B937;
+  }
+
+  /* Second Row */
+  .row-two{
+    padding-top: 30px;
+  }
+  .row-two p {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: black;
+    /* padding-bottom: 20px; */
+  }
+ .select-Second-rows select#a {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: left;
+    padding: 20px 40px;
+    width: 100%;
+    left: 0px;
+    /* top: 44px; */
+    border-radius: 51px;
+    color: #198BD6;
+    border: 2px solid #198BD6;
+}
+
+/* Section One last Row */
+.row.section-one-last-row {
+    margin-top: 30px;
+  }
+.section-one-last-row h6 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: black;
+  }
+.row.section-one-last-row .form-check-input:checked[type="radio"] {
+    background: linear-gradient(272.03deg, #3934A9 0.68%, #3DB9D5 104.09%) !important;
+  }
+
+  .row.section-one-last-row  .form-check-label {
+    color: black;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding-bottom: 20px 0px;
+  }
+
+  /* Section Two */
+  .container.row.section-two {
+    margin-left: 100px;
+  }
+  .section-two h3{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .container.row.section-two h3{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 1.6470588445663452px;
+    text-align: left;
+  }
+  .second-section h3 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 1px;
+  }
+ 
+  .second-section h4 {
+    font-size: 24px ;
+    letter-spacing: 1.65px;
+    font-weight: 700;
+    line-height: 54.35px;
+    font-family: Montserrat;
+  }
+  .second-section-work h5 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: left;
+  }
+
+  /* third Section */
+  .third-main-container{
+    border: 1px solid;
+    color: rgba(208, 230, 244, 1);
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px 0px #00000033;
+  }
+
+  .third-section-table h5 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .third-section-table p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 27px;
+  }
+
+  /* Table */
+  .row.table-row-one {
+    --bs-gutter-x: 0px !important;
+  }
+
+  
+  .table .table-first-col{
+    background-color: #F6FCFF   ;
+    width: 33.33%;
+  }
+  .table .table-second-col{
+    width: 33.33%;
+  }
+  .Grade-table table tbody td {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+ 
+ 
+ /* Third main Container Ol  */
+  .third-main-container ul, ol {
+    margin: unset;
+}
+.btn.rounded-pill.px-5.button-two-all-you-need-mob {
+  display: none;
+}
+
+
+.table-last-buttons-two{
+  display: none;
+}
+.after-select-option-text-mob{
+  display: none;
+}
+.mobile-plus-flex-buttons{
+  display: none;
+}
+hr.filter_line_break {
+    margin-top: 40px !important;
+    border: 3px solid #D0E6F4;
+    margin-bottom: 40px !important;
+}
+.row.row-one p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    max-width: 75%;
+    font-size: 16px;
+    line-height: 27px;
+    color: #16243E;
+}
+.row.row-one h5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: #16243E;
+}
+.select_data {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: left;
+    padding: 20px 18px;
+    width: 100%;
+    border-radius: 51px;
+    color: #3934A9;
+    border: 2px solid #3934A9;
+}
+
+.fees_upper_box {
+    width: 48%;
+}
+.fees_lower_box {
+    width: 48%;  
+}
+.fees_box_handle {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+    table.table.table_maintiance {
+       border-left: 1px solid #e6e6e6;
+       border-right: 1px solid #e6e6e6;
+       border-bottom: 1px solid #e6e6e6;
+    table-layout: fixed;
+     }
+td.table-flex-col {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center !important;
+    color: #21205A;
+    border-right: 1px solid #3DB9D5;
+}
+th.table-flex-heading {
+    background: #3DB9D5;
+}
+th.table-first-heading {
+    background-color: white;
+}
+tbody, td, tfoot, th, thead, tr {
+    border: 0px;
+}
+th.table-plus-heading {
+    background: #77cee2;
+}
+td.table-plus-col {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center !important;
+    color: #21205A;
+}
+td.table-first-col {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #21205A;
+    padding-left: 32px;
+}
+table.table.table-stripeding tbody tr td {
+    height: 66px;
+    vertical-align: middle;
+}
+table.table.table-stripeding.table_two {
+    text-align: center;
+    border-right: 1px solid #3DB9D5;
+}
+table.table.table-stripeding.table_thrid {
+    text-align: center;
+border-right: 1px solid #E6E6E6;
+}
+button.btn_td_school_left {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+    color: white;
+    padding: 14px 22px;
+    gap: 10px;
+    background: #21205A;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 25%);
+    border-radius: 30px;
+    height: 33px;
+    margin: 0 auto;
+    width: 300px ;
+}
+td.table-first-col.last_td_rad_left {
+    border-bottom-left-radius: 40px;
+}
+td.table-first-col.last_td_rad_right {
+    border-bottom-right-radius: 40px;
+}
+table.table.table-stripeding {
+    border: white;
+}
+.table_start_manage {
+    background-color: white;
+    border-top-left-radius: 40px;
+}
+table.table.table-stripeding.table_one tbody tr td {
+    padding-left: 33px;
+}
+table.table.table-stripeding.table_one {
+border-left: 1px solid #E6E6E6;
+   
+   margin:0px;
+padding:0px;
+    z-index: 999;
+    border-bottom-left-radius: 40px;
+}
+button.btn_td_school_right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 33px;
+    padding-top: 4px;
+    width: 300px;
+    border-radius: 30px;
+    background: #FFFFFF;
+    border: 1px solid #3934A9;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 25%);
+    border-radius: 30px;
+    color: #3934A9;
+}
+.bg-table-tag {
+    background: #16243E;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.text-uppercase.heading-real-time {
+    font-family: Montserrat;
+    font-size: 12.5px;
+    width:130px;
+    font-style: italic;
+    margin-top: 36px;
+    padding: 5px; 
+    background: #3934A9;
+    margin-left: -8px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    font-weight: 800;
+    line-height: 15px;
+    color: #FFFFFF;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.table_flex_pra{
+    font-family: 'Montserrat' !important;
+    font-style: 14px !important;
+    font-weight: 400 !important;
+    font-size: 16.546px !important;
+    line-height: 20px !important;
+    color: #16243E !important;
+    text-align: center !important;
+    margin-top: -18px !important;
+}
+.table_flex_head{
+font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28.3646px;
+    margin-top: 31px;
+    margin-left: -10px;
+    line-height: 35px;
+    color: #16243E;
+}
+.table-stripeding > tbody > tr:nth-child(2n) > td, .table-striped > tbody > tr:nth-child(2n) > th {
+ 
+    background: #E6E6E6;
+}
+.table-stripeding > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+  
+    background: #FFFFFF !important;
+}
+table.table.table-stripeding tbody tr td {
+    height: 66px;
+    vertical-align: middle;
+}
+table.table.table-stripeding.table_two {
+    text-align: center;
+    border-right: 1px solid #3DB9D5;
+}
+table.table.table-stripeding.table_thrid {
+    text-align: center;
+border-right: 1px solid #E6E6E6;
+}
+table.table.table_maintiance {
+    border-left: 1px solid #e6e6e6;
+    border-right: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+}
+.pil_btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 22px;
+    gap: 10px;
+    width: 393px;
+    height: 45px;
+    background: #F9ED32;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 25%);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 1px;
+
+
+color: #16243E;
+}
+.pil_btn_enroll{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 14px 22px;
+gap: 10px;
+
+width: 230px;
+height: 45px;
+
+background: #FEFDFC;
+border: 1px solid #3934A9;
+box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: 1px;
+
+color: #3934A9;
+}
+
+  @media (max-width:1024px) {
+    .col-md-12.third-main-container {
+      width: 100% !important;
+    }
+    .row-two p {  
+      font-size: 16px;
+    }
+    .select-Second-rows select#a {
+      padding: 10px;
+  }
+}
+@media (min-width: 992px)
+{
+.container, .container-lg, .container-md, .container-sm {
+  max-width: 96%;
+}
+button.btn_td_school_left {
+
+    font-size: 12px;
+    width: 190px;
+}
+button.btn_td_school_right {
+   
+    font-size: 12px;
+
+    width: 190px;
+ 
+}
+}
+@media (max-width:768px) {
+  
+  .select-Second-rows select#a {
+    padding: 10px;
+}
+.filter-button {
+  width: 100% !important;
+}
+p {
+  margin-bottom: 4px !important;
+}
+.second-section h4 {
+  font-size: 32px !important;
+  letter-spacing: 1.65px;
+  font-weight: 700;
+  line-height: 39px;
+}
+.section-one {
+  border: unset;
+  border-radius: unset;
+  background: unset;
+}
+.section-one h4{
+  color: black !important; 
+}
+.section-one h6{
+  color: black !important; 
+}
+/* Chose Radio Card Button */
+.radio-card-button.d-flex {
+  flex-direction: column;
+}
+/* Filter Section padding and margin */
+
+.fist-section-filter .row.section-one.mt-5.p-3 {
+  margin-top: 10px !important;
+}
+.container{
+  width: 90%;
+  padding: 20px !important;
+}
+.container.second-section.py-3.second-section-work {
+  width: 100%;
+}
+.third-section-table .container.px-lg-5.px-md-5.px-sm-1.py-5 {
+  width: 100%;
+  padding: 10px !important;
+}
+.container, .container-sm {
+  max-width: unset !important;
+}
+.col-lg-3.col-md-5.col-sm-6.heading-what-we-get h4 {
+  color: black !important;
+  font-family: Montserrat;
+  font-size: 24px !important;
+  font-weight: 700;
+  letter-spacing: 1.6470588445663452px;
+  text-align: center;
+text-transform: uppercase;
+}
+.col-lg-3.col-md-5.col-sm-6.heading-what-we-get {
+  background: unset !important;
+  width: 100%;
+}
+.py-3.text-white.text-center.text-compare {
+  display: none;
+}
+.text-center.fs-5.fw-bold.py-0.text-table-heading-price {
+  display: none;
+}
+.btn.rounded-pill.px-5.button-one-all-you-need {
+  display: none;
+}
+.btn.rounded-pill.px-5.button-two-all-you-need-mob {
+  display: block;
+  font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 1px;
+text-align: center;
+}
+.text-center.fs-6.py-0.text-table-heading-price-two {
+  width: 60%;
+  margin: 0 auto;
+    margin-bottom: 0px;
+}
+.col-lg-4.col-md-4.col-sm-12.py-2.my-3.plus-flex-text {
+  padding: unset !important;
+}
+.col-lg-4.col-md-4.col-sm-12.py-2.my-3.plus-flex-text h5 {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 33px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.col-lg-5.col-md-6.col-sm-12.py-2.my-3.heading-real-time {
+  width: 75% !important;
+}
+.last-table-row {
+  display: none;
+}
+.table-last-buttons-one{
+  display: none;
+}
+.table-last-buttons-two{
+  display: block;
+}
+.table-last-buttons-two .btn {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 1px;
+  padding: 14px 22px 14px 22px;
+}
+.table.table-bordered.Grade-table {
+  margin-bottom: unset;
+}
+.third-section-table .container.px-lg-5.px-md-5.px-sm-1.py-5 {
+  background: unset !important;
+  border: unset !important;
+  box-shadow: unset !important;
+  border-radius: unset !important;
+}
+.row.table-last-buttons-two {
+  margin-top: -50px;
+}
+.after-select-option-text-mob{
+  display: block;
+}
+.after-select-option-text-mob a{
+  color: #16243E;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 1px;
+}
+.after-select-option-text-mob .btn {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 1px;
+  padding: 14px 22px 14px 22px;
+}
+.section-two h3 {
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: 1.6470588445663452px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: -20px !important;
+}
+.plus-heading-column {
+  border-radius: 0px 10px 0px 0px;
+}
+.table .table-first-col {
+  width: 41.5%;
+}
+/* Mobile Shows Button Plus and FLex */
+.mobile-plus-flex-buttons{
+  display: block;
+}
+.mobile-plus-flex-buttons {
+  background-color: #D0E6F4;
+  padding: 17px 20px;
+  border-radius: 2px;
+}
+
+.mobile-plus-flex-buttons button.active_btn_tab_mob {
+  background-color: #16243E !important;
+  color: #FEFDFC !important;
+}
+
+.mobile-plus-button, .mobile-flex-button {
+  background-color: #FEFDFC;
+  border-radius: 5px;
+  padding: 10px 16px;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #16243E;
+}
+
+th.table-plus-heading, td.table-plus-col {
+	display:none;	
+}
+
+/* #flex-jquery-content{
+  display: none;
+}
+.table-third-col{
+  display: none;
+} */
+.table .table-second-col {
+  width: unset;
+}
+/* css by zee start*/
+.section-one {
+  background: unset !important;
+}
+.fist-section-filter .first-row-texts{
+	  background-color:#F9B937;
+	  border-radius: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+	  }
+.fist-section-filter .first-row-texts h4{
+	
+	text-transform: uppercase;
+	}
+.row-two p {  
+      font-size: 20px;
+    }
+#all-schools-fees-listing-section  .school_fee_head{
+	padding-left:0px !important;
+	margin-left:0px !important;
+	}
+.second-section-work{
+	padding-top: 0px !important;
+	}
+.second-section-work-inner{
+	width:100% !important;
+	padding:5px !important;
+	}
+hr.filter_line_break {
+    margin-top: 10px !important;
+    border: 2px solid #3DB9D5;
+    margin-bottom: 10px !important;
+}
+.row.row-one h5 {
+    font-weight: 500;
+    font-size: 24px;
+}
+.hidden_costs {
+	font-size:18px !important;
+	font-weight:500 !important;
+	}
+ .row-two{
+    padding-top: 0px;
+  }
+ .select-Second-rows {
+	 width:90% !important;
+	 float:left !important;
+    margin-top: 10px !important;
+ }
+ .radio-card-button.d-flex {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: inherit;
+    overflow-x: scroll;
+    width: 100%;
+}
+.examination_board_22, .examination_board_23, .examination_board_24 {
+    flex-direction: column!important;
+    position: relative !important;
+    flex: 0 0 auto !important;
+}
+.fees_upper_box { 
+	width: 100%;
+	padding-left: 7%;
+    padding-right: 7% !important;
+    margin-bottom: 5%; }
+.fees_lower_box { width: 100%; 
+	padding-left: 7%;
+    padding-right: 7% !important;
+	 }
+.fees_upper_box h5, .fees_lower_box h5{
+	font-size:24px !important;
+	line-height:30px !important;
+	font-weight:600 !important;
+	}
+.fees_upper_box p, .fees_lower_box p{
+	font-size:16px !important;
+	line-height:27px !important;
+	font-weight:400 !important;
+	}
+button.btn.rounded-pill.px-5.button-two-all-you-needs {
+	width:100% !important;
+	margin-top:15px !important;
+}
+#three-columns-layout-fee-section .fee-q-filter.fee-q-filters_plus {
+    background-size: 100% 100%;
+}
+
+
+#three-columns-layout-fee-section .fee-tweenty.fee-q-filters {
+    margin-bottom: 37px!important;
+}
+div#three-columns-layout-fee-section {
+    width: 100%;
+    
+}
+.border_hide_for_mobile{
+	background: unset !important;
+	border : unset !important;
+	box-shadow: unset !important;
+	border:unset !important;
+	}
+.monthly-txt1 h1 b{
+	font-size:32px !important;
+	font-weight:900 !important;
+	line-height:39px !important;
+	}
+.monthly-txt1 h1 span{
+	font-size:20px !important;
+	font-weight:500 !important;
+	line-height:20px !important;
+	}
+.monthly-txt1{border-bottom:unset !important;}
+/*css by zee end*/
+}
+
+/* Accordian Css*/
+.accor div#accordionFlushExample {
+  width:100%;
+  min-width: 1010px;
+}
+
+.accor .accordion-item , .accor .accordion-item button.accordion-button.collapsed{
+
+  background: linear-gradient(272.12deg, #F9B937 0.66%, #F26D50 116.49%);
+  border-radius: 10px !important;
+  color: #fff;
+}
+.accor .accordion-button:not(.collapsed) {
+
+  background-color: #ffffff00;
+}
+.accor button.accordion-button {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FEFDFC;
+}
+.accor .accordion-button:focus
+{
+    box-shadow: none;
+}
+
+
+.accor .accordion-button:not(.collapsed)::after
+{
+background-image: url(/wp-content/uploads/2022/12/Component-79.png) !important;
+}
+
+
+/* Qamar Css */
+.fee-q-filter.fee-q-filters_plus {
+  background-image: url(/wp-content/uploads/2022/12/Frame-5022-1.png);
+  width: 91%;
+  background-size: contain;
+  border-radius: 5px !important;
+  filter: drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.25));
+  background-repeat: no-repeat;
+  
+}
+
+.fee-q-filter {
+  background-image: url(/wp-content/uploads/2022/12/Frame-55-6.png);
+  width: 100%;
+  background-size: contain;
+  border-radius: 5px !important;
+  filter: drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.25));
+  padding: 15px  0px !important;
+  background-repeat: no-repeat;
+  
+}
+
+.fee-q-filters,.fee-q-filters_plus {
+padding: 12px 15px 10px 10px;
+/* height: 575px; */
+}
+
+.fee-q-filter h1 {
+font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 1px;
+}
+
+.monthly-text h1 b,.monthly-txt1 h1 b, .monthly-tex h1 b {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 49px;
+  align-items: center;
+  letter-spacing: 0.035em;
+  color: #198BD6;
+}
+
+.monthly-txt1 {
+    border-bottom: 1px solid #D0E6F4;
+  padding: 15px 0px 20px 5px;
+}
+.monthly-q-payale {
+  min-height: 20px !important;
+}
+@media (max-width:767px) {
+.monthly-txt-type-2 {
+    border-right: 0px solid #D0E6F4;
+}
+#all-schools-fees-listing-section h2.table_flex_head {
+    margin: 6px 0 22px 0!important;
+}
+.table_flex_head {
+    text-align: center;
+}
+th.table-first-heading {
+    padding: 16px;
+}
+div#heading-11 h2 {
+    font-size: 16px;
+    font-weight: 900;
+}
+p#heading-101 {
+    padding-left: 30px !important;
+}
+.third-section-table p {
+   
+    font-size: 12px;
+   
+}
+.filter_btn_one {
+    display: none;
+}
+.hold_type_2_module {
+    display: flex;
+    flex-direction: column-reverse;
+}
+h3.type_2_module_h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 27px;
+    color: #16243E;
+   
+}
+.col-lg-12.noteify {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+span.payable-mobile {
+    padding-bottom: 32px !important;
+}
+.fee-month-type-2 {
+    margin-top: -60px;
+    margin-left: -30px;
+}
+.col.monthly-txt-type-2 {
+    padding-top: 32px;
+}
+.accor button.accordion-button {
+   
+    font-size: 20px;
+   
+}
+.fee-month-type-2 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.fee-twenty-type-2 {
+    margin-left: -10px !important;
+    margin-right: -8px !important;
+}
+.accordion-item {
+    margin-left: -14px;
+    margin-right: -14px;
+}
+.fees_box_handle_type_2 {
+    display: initial;
+}
+.fees_box_type_2 {
+    width: 100%;
+}
+button.btn.rounded-pill.button-two-all-you-needs {
+    margin-top: 22px;
+}
+.fees_mbox_type_2 {
+    margin-top: 20px;
+}
+.button-one-all-you-need {
+    width: 100%;
+      margin-top: 20px;
+    margin-left: 0%;
+}
+.button-two-all-you-needs {
+    width: 100%;
+}
+.real_time_plus_flex_row {
+    display: initial;
+    justify-content: space-between;
+}
+.real_time_plus_flex {
+    max-width: 100%;
+}
+.fee-tweenty-thre.price .monthly {
+    margin-bottom: 8px !important;
+}
+span.Payable {
+    padding-bottom: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    max-width: 90%;
+    font-size: 12px;
+    line-height: 19px;
+    color: #16243E;
+    padding-top: 2px;
+}
+h2.monthly-instalment {
+    font-family: 'Montserrat' !important;
+    font-style: normal;
+    font-weight: 500 ;
+    font-size: 14px ;
+    line-height: 19px ;
+    color: #16243E ;
+}
+.row.align-items-start.two-col {
+   
+        margin-right: -7px;
+    margin-left: -7px;
+}
+.fees_title_tab {
+    border-radius: 0px 22px 22px 0px !important;
+}
+.fees_title_tab h4 {
+        font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 32px !important;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 39px !important;
+    
+    letter-spacing: 1.64706px;
+    text-transform: uppercase;
+    color: #FEFDFC;
+}
+.fee-q-filter {
+    width: 90%;
+       background-size: cover;
+    font-size: 11px !important;
+    padding: 25px 12px !important;
+       margin-left: 12px;
+ 
+}
+.fee-q-filter h1 {
+   font-size: 16px !important;
+}
+
+
+#three-columns-layout-fee-section {
+	padding: 0 !important;
+	margin: 0 !important;
+	width: 100% !important;	
+	
+}
+
+
+}
+
+@media (max-width:576px) {
+.col.monthly-txt-type-2 {
+    flex: initial;
+}
+.monthly-text-m1 {
+    margin-left: 22px;
+}
+  .fist-section-filter .container.mt-5.pt-1.p-5.first-main-container {
+    width: 100%;
+    padding: 15px !important;
+  }
+  .table-heading-top .col-sm-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .table-heading-top .col-sm-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+button.btn_td_school_left {
+
+    font-size: 10px;
+    width: 150px;
+}
+button.btn_td_school_right {
+   
+    font-size: 10px;
+
+    width: 150px;
+ 
+}
+.row.row-one h5 {
+    font-weight: 500;
+    font-size: 24px;
+}
+.row.row-one p {
+
+    max-width: 100%;
+ 
+}
+.select_data {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.curriculum {
+    display: initial;
+}
+
+ /* cody by zee start*/
+  .fist-section-filter .text-white{
+	  color:#FFFFFF !important;
+  }
+  .third-main-container {
+    margin-bottom: 25px !important;
+	}
+  .text_detail_school{
+	  font-size:18px !important;
+	  line-height:22px !important;
+  }
+  .bolg-all-you-need .all_need_title{
+	font-size: 24px !important;
+    font-weight: bold !important;
+    line-height: 29px !important;
+	  
+	  }
+ .fee-q-filter h1 {
+    font-size: 24px !important;
+	line-height:33px !important;
+	font-weight:700 !important;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 19px;
+}
+  /*code by zee end*/
+  
+  
+.monthly {
+    padding: 8px 23px;
+}
+
+.fee-q-filter.fee-q-filters_plus {
+    background-size: 100% 100%!important;
+    
+
+}
+.fee-tweenty {
+     margin-top: 17px!important;
+}
+
+
+  
+}
+
+
+
+
+
+/* Fee Page new Css */
+/* h4.text-black {
+  color: #21205A;
+} */
+
+
+.col-lg-12.col-md-12.col-sm-12.sec-row-text {
+    width: 900px;
+    height: 139px;
+}
+h4.col-lg-12  {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: #16243E;
+}
+p.pt-2.text-blac {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #16243E;
+    margin-top: 20px;
+}
+.border {
+    width:100%;
+    height: 3px; 
+    background: #D0E6F4; 
+    margin: 20px 0px;
+}
+.border-btm {
+    width: 100%;
+    height: 3px;
+    background: #D0E6F4;
+    margin: 50px 0px 20px 0px;
+}
+span.no-hidden {
+    width: 198px;
+    height: 28px;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: #16243E;
+}
+section.container.second-section.py-3.second-section-work {
+    min-width: 100%;
+    padding: 0px;
+}
+.col-lg-12.mt-3 h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 54px;
+    letter-spacing: 1.64706px;
+    text-transform: uppercase;
+    color: #16243E;
+}
+h4.text-bla.fs-3.py-2.px-4 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 54px;
+    letter-spacing: 1.64706px;
+    text-transform: uppercase;
+}
+.fee-tweenty {
+    box-sizing: border-box;
+    /* display: flex;  */
+    flex-direction: column;
+    align-items: flex-start; 
+    padding: 20px 20px 10px;
+    gap: 10px;
+   /* width: 1190px;*/
+    /* height: 607px; */
+    background: #FFFFFF;
+    border: 1px solid #F5F8FA;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 5%);
+    border-radius: 10px;
+    margin-left:-1%;
+margin-right: -1%;
+}
+
+.col-lg-12.col-md-12.col-sm-12 h1.fee-orange {
+    background-image: url(/wp-content/uploads/2022/12/Frame-5022.png);
+    width: 100%;
+    background-size: cover;
+   border-radius:10px !important;
+    height: 70px;
+    filter: drop-shadow(0px 1px 8px rgba(0, 0, 0, 0.25));
+    Padding-top:20px;
+}
+.col-lg-12.col-md-12.col-sm-12 h1.fee-orange {
+   
+    left: calc(50% - 137px/2 - 56px);
+    top: calc(50% - 33px/2);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FEFDFC;
+}
+.fee-tweenty-thre.price {
+    width: 98.95%;
+    margin-left: .5%;
+}
+
+.row.align-items-start.monthly b ,.monthly-tex h1 b {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 49px;
+    align-items: center;
+    letter-spacing: 0.035em;
+    color: #198BD6;
+display: inline-flex
+}
+.row.align-items-start.monthly h1 , .monthly-tex h1 ,.monthly-txt1 h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 19px;
+    color: #198BD6;
+}
+h1.monthly-text {
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px 0px 0px 17px;
+    gap: 29px;
+    width: 30%;
+    height: 133px;
+    display: inline-block;
+}
+h1.monthly-tex{
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px 0px 0px 17px;
+    gap: 29px;
+    width: 30%;
+    height: 133px;
+    display: inline-block;
+    border-left: 1px solid #D0E6F4;
+    border-right: 1px solid #D0E6F4;
+}
+
+
+.monthly-text, .monthly-tex {
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px 0px 0px 17px;
+    gap: 29px;
+    width: 33%;
+    height: 133px;
+    display: inline-block;
+
+}
+
+
+
+
+.Payable {
+  display: flex;
+  min-height: 35px !important;
+}
+.col.month {
+    border-left: 1px solid #D0E6F4;
+    border-right: 1px solid #D0E6F4;
+}
+.noteable {
+    padding-bottom: 50px;
+}
+.noteable li {
+    padding-left: 12px;
+}
+.col-lg-12.mt-3.note h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: #16243E;
+}
+
+.note {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+
+.text-center.filter-button {
+    margin-top: 20px;
+}
+.row.align-items-start.two-col {
+    margin-top: 2%;
+   
+}
+.need-you {
+  background: #FFFFFF;
+  border: 1px solid #F5F8FA;
+  border-radius: 10px;
+}
+.two-col .row {
+  padding: 0px;
+}
+
+
+@media screen and (min-width :768px) and (max-width:1024px)
+{
+  .col-lg-12.col-md-12.col-sm-12.sec-row-text {
+    width: 900px;
+    height: 139px;
+    max-width: 85%;
+}
+.border-btm {
+  
+    margin-top:19%;
+}
+.col-lg-12.col-md-12.col-sm-12 h1.fee-orange {
+    background-image: url(/wp-content/uploads/2022/12/Frame-5022.png);
+  
+    background-size: cover;
+
+}
+
+.accor div#accordionFlushExample {
+    width: 100%;
+    min-width: 586px;
+}
+button.btn.rounded-pill.px-5.button-one-all-you-need {
+    
+    display: -webkit-inline-box;
+}
+.row.my-3.bolg-all-you-need.mx-9 {
+    margin: 0rem;
+}
+}
+@media screen and (min-width :280px) and (max-width:767px)
+{
+.border-btm {
+  
+  margin: 20px 0px;
+}
+
+.row.section-one.mt-5.p-3 {
+    /* position: absolute; */
+    /* width: 343px; */
+    /* height: 209px; */
+    /* left: -16.5px; */
+    top: 0px;
+    background: #F9B937;
+    border-radius: 10px;
+}
+.col-lg-12.col-md-12.col-sm-12.first-row-texts h4.text-black {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #16243E;
+}
+.col-lg-12.col-md-12.col-sm-12.first-row-texts h6.pt-2.text-white {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+    color: #FFFFFF !important;
+	width:80% !important;
+}
+.col-lg-12.mt-3 h2 {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 54px;
+    letter-spacing: 1.64706px;
+    text-transform: uppercase;
+}
+.container.mt-3.pt-1.p-5.first-main-container {
+    
+    padding: 0rem 1.5rem !important;
+
+}
+.second-section-work {
+    padding: 10px 0px !important;
+}
+.p-1 h4.px-4 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+
+    line-height: 39px;
+    letter-spacing: 1.64706px;
+    text-transform: uppercase;
+}
+.col-lg-12.col-md-12.col-sm-12 h1.fee-orange {
+width: 95% !important;
+    margin: 0 auto;
+    background-image: url(/wp-content/uploads/2022/12/Frame-5022-1-1.png);
+    width: 100%;
+    background-size: cover !important;
+    border-radius: 10px !important;
+   
+}
+.row.align-items-start.monthly b {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    
+    align-items: center;
+    letter-spacing: 0.035em;
+}
+.row.align-items-start.monthly h1, .monthly-tex h1 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 19px;
+}
+.row.align-items-start.monthly h1 {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+}
+.col.month {
+   
+    border: none !important;
+}
+
+span.Payable {
+   
+    border-bottom: 1px solid #D0E6F4;
+
+}
+.mx-9 .need-you {
+   /* margin-top: 102%;*/
+}
+
+.accor div#accordionFlushExample {
+  width: 100%;
+  min-width: 70%;
+
+}
+
+span.Payable
+{
+	width:100%;
+}
+
+.col-lg-12.col-md-12.col-sm-12.sec-row-text {
+    width: 90%;
+    height: auto;
+}
+
+
+button.btn.rounded-pill.px-5.button-two-all-you-needs {
+    justify-content: center;
+    align-items: center;
+    padding: 14px 22px;
+    gap: 10px;
+    background: #F9B937;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 25%);
+    border-radius: 28px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 1px;
+    color: #16243E;
+}
+button.btn.rounded-pill.px-5.button-one-all-you-need {
+  
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 22px;
+    gap: 10px;
+    background: #FFFFFF;
+    border: 1px solid #3934A9;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 25%);
+    border-radius: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+margin-left:2%;
+letter-spacing: 1px;
+
+color: #3934A9;
+}
+.col-lg-7.col-md-12.col-sm-12.py-4 p.text-dark {
+    width: 88%;
+}
+.col-lg-7.col-md-12.col-sm-12.py-4.need-you{
+    background: #FFFFFF;
+    border: 1px solid #F5F8FA;
+    box-shadow: 0px 1px 8px rgb(0 0 0 / 5%);
+    border-radius: 10px;
+    
+}
+.accor .accordion-body {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 19px;
+}
+.accor .accor button.accordion-button {
+  
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+.fee-tweenty{
+  padding: 10px 0px!important;
+  
+  }
+  .note {
+    padding-left: 15px;
+    padding-bottom:15px;
+}
+}
+
+td.table-flex-col {
+    box-shadow: 25px 0px 30px -20px #0000009c inset;
+}
+th.table-first-heading {
+    border-top-left-radius: 50px;
+    box-shadow: 25px 22px 48px;
+}
+table.table.table_maintiance{
+	border-left:solid transparent !important;
+}
+
+.text-uppercase.heading-real-time{
+	background:orange !important;     
+}
+#real-time{
+	background:#3DB9D5 !important; 
+}
+
+#realtime1{
+	background:#3DB9D5 !important; 
+}
+div#heading-11 h2 {
+    padding-left: 40px;
+    padding-top: 20px;
+}
+p#heading-101 {
+    padding-left: 40px;
+}
+
+@media screen and (max-width: 500px){
+div#heading-11 h2 {
+    padding-left: 30px !important;
+    padding-top: 20px  !important;
+}	
+	
+}

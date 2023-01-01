@@ -1,0 +1,24 @@
+<script>
+// JQuery code Append code
+
+jQuery(document).ready(function(){
+
+var query_string=window.location.search;
+var domainPage = "https://hammada78.sg-host.com/test-page/";
+var redirectUrl = "&redirecturi=";
+		
+jQuery( ".wp-element-button" ).each(function() {
+	var hrefLink = jQuery(this).attr('href');
+	var finalLink = domainPage+''+query_string+''+redirectUrl+''+hrefLink;
+	
+    jQuery(this).attr("href", finalLink); 
+	
+  });
+		
+});
+</script>
+
+
+// is code sa hmm let suppose kafi archive/list post ha iun sb k "href" k idr
+apna cusotm link append/add kr sktaya ha using loop   window.location.search ya iupar 
+slug pakranaya ka km krti ha

@@ -1,0 +1,19 @@
+<?php
+
+  $date = date('Y-m-d'); //today date
+  $weekOfdays = array();
+  for($i =1; $i <= 7; $i++){
+    $date = date('Y-m-d', strtotime('+1 day', strtotime($date)));
+    $weekOfdays[] = date('l : Y-m-d', strtotime($date));
+  }
+  print_r($weekOfdays);
+
+  echo '<br>';
+  echo '<p>Next 7 days from the current date are as shown below</p>';
+
+  foreach($weekOfdays as $days){
+
+      echo $days.'<br>';
+  }
+
+?>

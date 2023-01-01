@@ -1,0 +1,11 @@
+$currentPageUrl = 'http://' . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
+echo "Current page URL " . $currentPageUrl; // get current url
+
+
+
+$currentPageUrl = 'http://' . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"];
+$parts = parse_url($currentPageUrl);
+parse_str($parts['query'], $query);
+echo $query['id'];    /// get url to explode furture get id of url
+
+
